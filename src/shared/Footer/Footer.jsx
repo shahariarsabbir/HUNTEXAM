@@ -13,7 +13,7 @@ import Newsletter from './NewsLetter'
 
 const Footer = () => {
 	return (
-		<footer className="bg-neutral-950 text-neutral-content mt-20">
+		<footer className="bg-neutral text-neutral-content mt-20">
 			<Newsletter />
 			<div className="max-w-7xl mx-auto px-6 py-14">
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
